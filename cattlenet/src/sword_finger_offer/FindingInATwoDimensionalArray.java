@@ -1,4 +1,4 @@
-package shine.sword.finger.offer;
+package sword_finger_offer;
 
 /**
  * @time 18.3.25
