@@ -28,11 +28,8 @@ public class FindingInATwoDimensionalArray {
 		}
 		return false;
 	}
-	/*
-	 * 大神解法：
-	 * 链接：https://www.nowcoder.com/questionTerminal/abc3fe2ce8e146608e868a70efebf62e
-                   来源：牛客网
-
+	
+    /*
                               利用二维数组由上到下，由左到右递增的规律，
                               那么选取右上角或者左下角的元素a[row][col]与target进行比较，
                               当target小于元素a[row][col]时，那么target必定在元素a所在行的左边,
