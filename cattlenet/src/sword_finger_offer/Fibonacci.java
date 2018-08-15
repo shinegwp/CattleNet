@@ -22,7 +22,7 @@ public class Fibonacci {
 //		}
 //	}
 	/**
-	 * @describe 抛弃递归，循环求解，节省空间
+	 * @describe 大神思想：抛弃递归，循环求解，节省空间
 	 * @param n
 	 * @return
 	 */

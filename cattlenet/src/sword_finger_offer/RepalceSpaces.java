@@ -23,10 +23,12 @@ public class RepalceSpaces {
 	//
 	// }
 	/*
-	 * 牛客网巧妙解法，采用正则表达式
+	 * 巧妙解法，采用正则表达式
 	 */
-	// 链接：https://www.nowcoder.com/questionTerminal/4060ac7e3e404ad1a894ef3e17650423
-	// 来源：牛客网
+//	public String replaceSpace(StringBuffer str) {
+//		return str.toString().replaceAll(" " , "%20");
+//	}
+	 
 
 	/*
 	 * 
